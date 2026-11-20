@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/_next/static/chunks/3l8x4yh5_5u67.js"
+6:I[18013,["$2","$5"],"default"]
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+16:"$Sreact.suspense"
+:HL["/_next/static/chunks/0__rpbht4vi2x.css","style"]
+:HL["/_next/static/chunks/30cfpakkfz1fy.css","style"]
+:HL["/brand/stamp-ivory.svg","image"]
+8:X
+b:X
+b:C
+d:T2c0d,<h1>Privacy Policy</h1>
+<p class="meta">Redevotion for iPhone · Effective date: November 13, 2026</p>
+<p class="jump"><a href="#today">The version available today</a> · <a href="#family-sync">Family Sync (coming soon)</a> · <a href="#website">This website and contacting us</a></p>
+
+<div class="note"><strong>At a glance</strong>
+<ul>
+<li><strong>Today:</strong> Redevotion keeps your devotional life on your iPhone. It has no accounts and no server, and it makes no network connections of its own.</li>
+<li><strong>Coming soon:</strong> Family Sync, an optional feature that would let the members of a household share certain family records through an online service. It is <strong>not part of the version available today</strong>. This policy explains how it is planned to work so you know before it arrives.</li>
+<li>We do not add advertising, tracking or analytics to Redevotion.</li>
+</ul></div>
+
+<h2 id="today">1. Redevotion today (the current version)</h2>
+<p>Redevotion is a private Bible reading and prayer app. It keeps your devotional life on your iPhone and does not send it anywhere. Everything in this section describes the version distributed today, which does not include Family Sync.</p>
+
+<h3>What stays on your device</h3>
+<p>Everything you enter or record in Redevotion is stored only on your iPhone: your Bible reading plan and progress, prayer lists and requests, catechism and Memory progress, Personal Devotion and Family Worship records, notes, and your settings. Redevotion has no accounts and no server, and it does not upload this information.</p>
+
+<h3>What Redevotion does not do</h3>
+<ul><li>It does not collect personal information.</li><li>It does not track you, and it contains no advertising.</li><li>It contains no analytics, crash-reporting or other third-party code, and it makes no network connections of its own.</li></ul>
+
+<h3>Backups and export</h3>
+<p>You can export a backup file from Settings, then Data &amp; Backup, and restore from one. Redevotion only creates or reads that file when you ask, through the standard iOS Files sheet. You choose where the file is saved (for example iCloud Drive or another service you use), and that service&rsquo;s own privacy policy applies to the copy it holds. The file is readable text and contains your devotional data, so keep it somewhere you trust. Restoring a backup replaces the data in the app with the data in the file.</p>
+<p>Before a restore replaces anything, Redevotion automatically saves a safety copy of your current data on your iPhone, inside the app, and keeps the newest few so you can recover if you restored the wrong file. These copies are never uploaded by Redevotion.</p>
+<p>Like other apps, Redevotion&rsquo;s data on your iPhone may be included in your ordinary iPhone backups, such as an iCloud Backup or a computer backup, if you have those turned on in iOS. That is controlled by your device settings and Apple, not by Redevotion, and Redevotion does not receive it.</p>
+
+<h3>Notifications</h3>
+<p>If you turn reminders on, Redevotion asks permission and schedules local notifications on your iPhone. They are generated on the device and are not sent through any server. By default they do not name people or categories from your prayer list; you can choose to show names in Settings.</p>
+
+<h3>Links to Bible apps and websites</h3>
+<p>If you choose to open a Scripture passage in a Bible app or website, or open a publisher&rsquo;s copyright page, iOS opens that app or site. Redevotion passes only the passage reference. That app or site is not part of Redevotion and has its own privacy practices. Bible text shown inside Redevotion is stored in the app and read offline.</p>
+
+<h3>Children</h3>
+<p>The current version does not collect information from anyone, including children.</p>
+
+<h3>Deleting your data</h3>
+<p>Deleting Redevotion from your iPhone removes its data from the device. Backup files you exported are separate and stay where you saved them until you delete them.</p>
+
+<h2 id="family-sync">2. Optional Family Sync (coming soon)</h2>
+<div class="note"><p><strong>Status: coming soon, not yet available.</strong> Family Sync is not part of the version of Redevotion distributed today, and nothing in this section applies to you unless you install a future version that includes it and choose to turn it on. This section describes the <strong>planned design</strong>. Some details are still being finalized and tested and may change. We expect to try Family Sync first with a small group of invited testers. The exact deletion and retention procedures have not been finalized or verified yet; we will confirm them and describe them here before any version that includes Family Sync is distributed, including to outside testers. We will update this policy before any version that includes Family Sync is released to the public.</p></div>
+
+<h3>How it is planned to work</h3>
+<ul>
+<li><strong>Optional.</strong> Redevotion will keep working fully without it, with no account. Family Sync would be off until you turn it on.</li>
+<li><strong>Sign in with Apple.</strong> You would be asked to sign in with Apple only when you turn Family Sync on. There is no password, and the app does not ask for your email address or your name.</li>
+<li><strong>Account and member identifiers.</strong> To recognize you when you sign in again, the service would keep an account identifier supplied through Sign in with Apple. Within each household it would give you a pseudonymous member identifier, and household records would refer to that identifier rather than to your Apple account. A pseudonymous identifier does not name you, but the service can still link it to your account.</li>
+<li><strong>Online service.</strong> Family Sync is planned to use Supabase to store and synchronize household records and to handle sign-in. Supabase would act as a service provider to us.</li>
+</ul>
+
+<h3>What would be shared with your household</h3>
+<p>Only what your household explicitly shares and uses together, for example shared family prayer requests, custom family resources, Family Worship rhythms, assignments and progress, and who belongs to the household. The final list of record types is still being confirmed. These records can include personal and religious information, such as the names of people you pray for and text you type.</p>
+
+<h3>What would stay private</h3>
+<p>Your Personal Devotion records, your personal prayer list, your personal Memory items, your personal notes, your settings and your backup files are not part of household synchronization. A personal item would be copied to your household only if you deliberately choose to make a copy, and that copy then becomes shared household content.</p>
+
+<h3>Who could see household records</h3>
+<ul>
+<li><strong>Your household members.</strong> Access is planned to be limited to the members of your household and enforced by the service. Members who leave or are removed lose that access.</li>
+<li><strong>The service operator.</strong> Family Sync is planned <strong>without end-to-end encryption</strong>. The operator of Redevotion may be able to access household records stored on the service.</li>
+<li><strong>The service provider.</strong> Supabase hosts the data and runs the infrastructure.</li>
+</ul>
+<p>We do not plan to sell this information, use it for advertising, or use it to track you across other companies&rsquo; apps and websites.</p>
+
+<h3>Security</h3>
+<p>Data is planned to be encrypted in transit between the app and the service, and stored data is planned to be encrypted at rest by the hosting provider. Because Family Sync is not end-to-end encrypted, those protections do not prevent access by the service operator. No system is perfectly secure, and we cannot guarantee absolute security.</p>
+
+<h3>Households and children</h3>
+<p>Family Sync is intended for households. Children can take part in family practices, such as Family Worship, alongside an adult without necessarily having cloud accounts of their own. Accounts use Sign in with Apple, which requires an Apple Account. Please think about what you write about other people, including children, in shared items, because household members and possibly the operator may be able to read them. We do not knowingly collect information directly from children.</p>
+
+<h3>Keeping and deleting household data</h3>
+<ul>
+<li><strong>Leaving or being removed from a household (planned).</strong> A member would be able to leave a household, and an authorized household member would be able to remove a member. Leaving or removal is intended to end that person&rsquo;s access to the household. Shared household records may remain available to the members who stay. A household would also be able to delete its shared records from the service. Copies already on devices stay on those devices until the person deletes them.</li>
+<li><strong>Permanent account deletion (planned, not yet built).</strong> Apple requires an app that lets people create an account to let them delete it from within the app. Before Family Sync is released to the public, we intend to provide that, handling your account information and associated personal data, including shared content you contributed, in line with Apple&rsquo;s account-deletion requirements, and ending the Sign in with Apple connection to Redevotion. This does not exist yet. We will state exactly what is deleted, what if anything is kept, and how long it takes before release.</li>
+<li><strong>Retention (to be confirmed).</strong> How long household records, provider backups and service logs are kept, and the exact deletion procedures, are still to be verified. We will publish them here before any version that includes Family Sync is distributed.</li>
+</ul>
+
+<h3>Technical data</h3>
+<p>Like most online services, the hosting provider may receive your IP address and basic request information when the app connects, and may keep it for security and troubleshooting. We will confirm the details before release. The planned design adds no advertising, analytics or tracking.</p>
+
+<h2 id="website">3. This website and contacting us</h2>
+<h3>This website</h3>
+<p>This website is hosted on GitHub Pages. When you visit it, GitHub logs your IP address and basic request information for security purposes, under <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub&rsquo;s own privacy statement</a>. We do not add cookies, analytics or advertising of our own to this website. This applies to visiting the website only; the Redevotion app itself makes no network connections of its own.</p>
+<h3>If you email us</h3>
+<p>If you contact us at the address below, we receive your email address and whatever you choose to write, and we use it only to reply to you. Please do not send backup files or private devotional content. Email is handled by our email provider under its own privacy policy.</p>
+
+<h2>Changes to this policy</h2>
+<p>If this policy changes, the new version will be posted here with its effective date. We will update it before any version that includes Family Sync is released to the public.</p>
+
+<h2>Contact</h2>
+<p>Questions about this policy: <a href="mailto:Redevotion@outlook.com">Redevotion@outlook.com</a>.</p>c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"jXgtnq_page","children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{"homeHref":"/","scheme":"auto","current":"privacy"}],["$","main",null,{"id":"main","tabIndex":-1,"className":"jXgtnq_main","children":["$","article",null,{"className":"jXgtnq_legal","dangerouslySetInnerHTML":{"__html":"$d"}}]}],"$Le"]}],["$Lf"],"$L10"]}],"p":"$@11","v":null,"s":"$8"}}]]
+9:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0__rpbht4vi2x.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/30cfpakkfz1fy.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"en","className":"_6ZS5gq_variable zIuUAq_variable W06g6q_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{"homeHref":"/"}],["$","main",null,{"id":"main","tabIndex":-1,"className":"hu3vsq_main","children":[["$","div",null,{"className":"hu3vsq_grid","children":[["$","header",null,{"className":"hu3vsq_head","children":[["$","h1",null,{"className":"hu3vsq_title","children":"This page isn’t in the book"}],["$","div",null,{"className":"hu3vsq_standfirst","children":["$","p",null,{"children":"The address may be mistyped, or the page may have moved. These will take you somewhere useful."}]}]]}],false,["$","div",null,{"className":"hu3vsq_body","children":[[],["$","nav",null,{"className":"hu3vsq_onward","aria-label":"Where to go next","children":[["$","a","/",{"className":"hu3vsq_primary","href":"/","children":"The home page"}],["$","a","/how-it-works.html",{"className":"link","href":"/how-it-works.html","children":"How it works"}],["$","a","/try.html",{"className":"link","href":"/try.html","children":"Try a short devotion"}],["$","a","/support.html",{"className":"link","href":"/support.html","children":"Support"}]]}]]}]]}],"$undefined"]}],["$","footer",null,{"className":"_EUJ1W_footer on-field","data-tone":"field","children":["$","div",null,{"className":"_EUJ1W_inner","children":[["$","img",null,{"className":"_EUJ1W_stamp","src":"/brand/stamp-ivory.svg","width":64,"height":36,"alt":"","aria-hidden":true,"draggable":false,"style":{"display":"block","width":64,"height":36}}],["$","nav",null,{"className":"_EUJ1W_links","aria-label":"Footer","children":[["$","a",null,{"className":"link","href":"/how-it-works.html","children":"How it works"}],["$","a",null,{"className":"link","href":"/ways-to-use.html","children":"Ways to use"}],["$","a",null,{"className":"link","href":"/first-week.html","children":"Your first week"}],["$","a",null,{"className":"link","href":"/try.html","children":"Try it"}],["$","a",null,{"className":"link","href":"/faq.html","children":"Questions"}],["$","a",null,{"className":"link","href":"/support.html","children":"Support"}],["$","a",null,{"className":"link","href":"/privacy.html","children":"Privacy Policy"}],["$","a",null,{"className":"link","href":"mailto:Redevotion@outlook.com","children":"Redevotion@outlook.com"}]]}],["$","p",null,{"className":"_EUJ1W_note","children":"Scripture and other texts remain the property of their publishers."}],[],false]}]}]],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F3F0E4","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#18242A","media":"(prefers-color-scheme: dark)"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy Policy · Redevotion"}],["$","meta","1",{"name":"description","content":"Redevotion privacy policy: your devotional data stays on your iPhone today. Includes advance notice of optional Family Sync, which is coming soon."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","link","4",{"rel":"canonical","href":"https://redevotionapp.com/privacy.html"}],["$","meta","5",{"property":"og:title","content":"Privacy Policy · Redevotion"}],["$","meta","6",{"property":"og:description","content":"Redevotion privacy policy: your devotional data stays on your iPhone today. Includes advance notice of optional Family Sync, which is coming soon."}],["$","meta","7",{"property":"og:url","content":"https://redevotionapp.com/privacy.html"}],["$","meta","8",{"property":"og:image","content":"https://redevotionapp.com/og-image-1200x630.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Redevotion logo on deep teal"}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]}],null]}],"$L23"]}],"p":"$@24","v":null,"s":"$8"}},"a":"$@25","u":"$@26","b":"M21yvKDl1Q6XXRgYU7t-G"}
+27:I[97367,["$2"],"OutletBoundary"]
+29:I[27201,["$2"],"IconMark"]
+e:["$","footer",null,{"className":"_EUJ1W_footer on-field","data-tone":"field","children":["$","div",null,{"className":"_EUJ1W_inner","children":[["$","img",null,{"className":"_EUJ1W_stamp","src":"/brand/stamp-ivory.svg","width":64,"height":36,"alt":"","aria-hidden":true,"draggable":false,"style":{"display":"block","width":64,"height":36}}],["$","nav",null,{"className":"_EUJ1W_links","aria-label":"Footer","children":[["$","a",null,{"className":"link","href":"/how-it-works.html","children":"How it works"}],["$","a",null,{"className":"link","href":"/ways-to-use.html","children":"Ways to use"}],["$","a",null,{"className":"link","href":"/first-week.html","children":"Your first week"}],["$","a",null,{"className":"link","href":"/try.html","children":"Try it"}],["$","a",null,{"className":"link","href":"/faq.html","children":"Questions"}],["$","a",null,{"className":"link","href":"/support.html","children":"Support"}],["$","a",null,{"className":"link","href":"/privacy.html","aria-current":"page","children":"Privacy Policy"}],["$","a",null,{"className":"link","href":"mailto:Redevotion@outlook.com","children":"Redevotion@outlook.com"}]]}],["$","p",null,{"className":"_EUJ1W_note","children":"Scripture and other texts remain the property of their publishers."}],[],false]}]}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/3l8x4yh5_5u67.js","async":true}]
+10:["$","$L27",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
+17:["$","meta","12",{"property":"og:type","content":"website"}]
+18:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
+19:["$","meta","14",{"name":"twitter:title","content":"Privacy Policy · Redevotion"}]
+1a:["$","meta","15",{"name":"twitter:description","content":"Redevotion privacy policy: your devotional data stays on your iPhone today. Includes advance notice of optional Family Sync, which is coming soon."}]
+1b:["$","meta","16",{"name":"twitter:image","content":"https://redevotionapp.com/og-image-1200x630.png"}]
+1c:["$","meta","17",{"name":"twitter:image:alt","content":"Redevotion logo on deep teal"}]
+1d:["$","meta","18",{"name":"twitter:image:width","content":"1200"}]
+1e:["$","meta","19",{"name":"twitter:image:height","content":"630"}]
+1f:["$","link","20",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}]
+20:["$","link","21",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+21:["$","link","22",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]
+22:["$","$L29","23",{}]
+23:["$","meta",null,{"name":"next-size-adjust","content":""}]
+8:300
+28:null
+26:true
+8:C
+25:0
+a:"$undefined"
+7:"$undefined"
+24:"$undefined"
+11:"$undefined"

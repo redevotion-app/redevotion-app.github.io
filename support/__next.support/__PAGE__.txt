@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/_next/static/chunks/3l8x4yh5_5u67.js"
+6:I[18013,["$2","$5"],"default"]
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+16:"$Sreact.suspense"
+:HL["/_next/static/chunks/0__rpbht4vi2x.css","style"]
+:HL["/_next/static/chunks/30cfpakkfz1fy.css","style"]
+:HL["/brand/stamp-ivory.svg","image"]
+8:X
+b:X
+b:C
+d:T79d,<h1>Support</h1>
+<p class="meta">Redevotion for iPhone</p>
+<p>Redevotion is a quiet companion for Scripture reading, prayer, catechism, and personal and family worship. Your data is stored on your iPhone.</p>
+<h2>Contact</h2>
+<p>Email <a href="mailto:Redevotion@outlook.com">Redevotion@outlook.com</a> with questions or problems. Please do not include your backup file or any private devotional content in your message. Include your iPhone model and iOS version if you are reporting a problem.</p>
+<h2>Common questions</h2>
+<p><strong>How do I back up my data?</strong><br>Open Settings, then Data &amp; Backup, and choose Export Backup. Save the file to iCloud Drive or another location. To restore, choose Restore Backup and pick the file. Restoring replaces the data in the app with the data in the file.</p>
+<p><strong>I moved to a new iPhone. How do I bring my data?</strong><br>Export a backup on the old iPhone, then restore it on the new one.</p>
+<p><strong>My reminders stopped.</strong><br>Reminders are scheduled ahead of time and refreshed whenever you open Redevotion. If you have not opened the app for a while, they may stop until you return. Also check that notifications are allowed for Redevotion in iPhone Settings.</p>
+<p><strong>How do I change the Bible translation?</strong><br>Settings, then Scripture &amp; Library, then In-App Scripture Translation. Under the same Scripture &amp; Library section, Bible App for Links separately chooses which Bible app or website opens when you tap a passage reference.</p>
+<p><strong>Where are Personal Devotion and Family Worship?</strong><br>Turn them on under Settings, then Your Practices.</p>
+<p><strong>Is my information shared with anyone?</strong><br>No. See the <a href="privacy.html">Privacy Policy</a>.</p>
+<p><strong>Scripture copyright notices</strong><br>The notices for each included Bible translation are in Settings, then About &amp; Legal, then Scripture Copyrights.</p>c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"jXgtnq_page","children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{"homeHref":"/","scheme":"auto","current":"support"}],["$","main",null,{"id":"main","tabIndex":-1,"className":"jXgtnq_main","children":["$","article",null,{"className":"jXgtnq_legal","dangerouslySetInnerHTML":{"__html":"$d"}}]}],"$Le"]}],["$Lf"],"$L10"]}],"p":"$@11","v":null,"s":"$8"}}]]
+9:[["children",{"s":"support","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0__rpbht4vi2x.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/30cfpakkfz1fy.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"en","className":"_6ZS5gq_variable zIuUAq_variable W06g6q_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L6",null,{"homeHref":"/"}],["$","main",null,{"id":"main","tabIndex":-1,"className":"hu3vsq_main","children":[["$","div",null,{"className":"hu3vsq_grid","children":[["$","header",null,{"className":"hu3vsq_head","children":[["$","h1",null,{"className":"hu3vsq_title","children":"This page isn’t in the book"}],["$","div",null,{"className":"hu3vsq_standfirst","children":["$","p",null,{"children":"The address may be mistyped, or the page may have moved. These will take you somewhere useful."}]}]]}],false,["$","div",null,{"className":"hu3vsq_body","children":[[],["$","nav",null,{"className":"hu3vsq_onward","aria-label":"Where to go next","children":[["$","a","/",{"className":"hu3vsq_primary","href":"/","children":"The home page"}],["$","a","/how-it-works.html",{"className":"link","href":"/how-it-works.html","children":"How it works"}],["$","a","/try.html",{"className":"link","href":"/try.html","children":"Try a short devotion"}],["$","a","/support.html",{"className":"link","href":"/support.html","children":"Support"}]]}]]}]]}],"$undefined"]}],["$","footer",null,{"className":"_EUJ1W_footer on-field","data-tone":"field","children":["$","div",null,{"className":"_EUJ1W_inner","children":[["$","img",null,{"className":"_EUJ1W_stamp","src":"/brand/stamp-ivory.svg","width":64,"height":36,"alt":"","aria-hidden":true,"draggable":false,"style":{"display":"block","width":64,"height":36}}],["$","nav",null,{"className":"_EUJ1W_links","aria-label":"Footer","children":[["$","a",null,{"className":"link","href":"/how-it-works.html","children":"How it works"}],["$","a",null,{"className":"link","href":"/ways-to-use.html","children":"Ways to use"}],["$","a",null,{"className":"link","href":"/first-week.html","children":"Your first week"}],["$","a",null,{"className":"link","href":"/try.html","children":"Try it"}],["$","a",null,{"className":"link","href":"/faq.html","children":"Questions"}],["$","a",null,{"className":"link","href":"/support.html","children":"Support"}],["$","a",null,{"className":"link","href":"/privacy.html","children":"Privacy Policy"}],["$","a",null,{"className":"link","href":"mailto:Redevotion@outlook.com","children":"Redevotion@outlook.com"}]]}],["$","p",null,{"className":"_EUJ1W_note","children":"Scripture and other texts remain the property of their publishers."}],[],false]}]}]],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F3F0E4","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#18242A","media":"(prefers-color-scheme: dark)"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Support · Redevotion"}],["$","meta","1",{"name":"description","content":"Redevotion support: contact, backup and restore, reminders, Bible translations and common questions."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","link","4",{"rel":"canonical","href":"https://redevotionapp.com/support.html"}],["$","meta","5",{"property":"og:title","content":"Support · Redevotion"}],["$","meta","6",{"property":"og:description","content":"Redevotion support: contact, backup and restore, reminders, Bible translations and common questions."}],["$","meta","7",{"property":"og:url","content":"https://redevotionapp.com/support.html"}],["$","meta","8",{"property":"og:image","content":"https://redevotionapp.com/og-image-1200x630.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Redevotion logo on deep teal"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]}],null]}],"$L21"]}],"p":"$@22","v":null,"s":"$8"}},"a":"$@23","u":"$@24","b":"M21yvKDl1Q6XXRgYU7t-G"}
+25:I[97367,["$2"],"OutletBoundary"]
+27:I[27201,["$2"],"IconMark"]
+e:["$","footer",null,{"className":"_EUJ1W_footer on-field","data-tone":"field","children":["$","div",null,{"className":"_EUJ1W_inner","children":[["$","img",null,{"className":"_EUJ1W_stamp","src":"/brand/stamp-ivory.svg","width":64,"height":36,"alt":"","aria-hidden":true,"draggable":false,"style":{"display":"block","width":64,"height":36}}],["$","nav",null,{"className":"_EUJ1W_links","aria-label":"Footer","children":[["$","a",null,{"className":"link","href":"/how-it-works.html","children":"How it works"}],["$","a",null,{"className":"link","href":"/ways-to-use.html","children":"Ways to use"}],["$","a",null,{"className":"link","href":"/first-week.html","children":"Your first week"}],["$","a",null,{"className":"link","href":"/try.html","children":"Try it"}],["$","a",null,{"className":"link","href":"/faq.html","children":"Questions"}],["$","a",null,{"className":"link","href":"/support.html","aria-current":"page","children":"Support"}],["$","a",null,{"className":"link","href":"/privacy.html","children":"Privacy Policy"}],["$","a",null,{"className":"link","href":"mailto:Redevotion@outlook.com","children":"Redevotion@outlook.com"}]]}],["$","p",null,{"className":"_EUJ1W_note","children":"Scripture and other texts remain the property of their publishers."}],[],false]}]}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/3l8x4yh5_5u67.js","async":true}]
+10:["$","$L25",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+17:["$","meta","14",{"name":"twitter:title","content":"Support · Redevotion"}]
+18:["$","meta","15",{"name":"twitter:description","content":"Redevotion support: contact, backup and restore, reminders, Bible translations and common questions."}]
+19:["$","meta","16",{"name":"twitter:image","content":"https://redevotionapp.com/og-image-1200x630.png"}]
+1a:["$","meta","17",{"name":"twitter:image:alt","content":"Redevotion logo on deep teal"}]
+1b:["$","meta","18",{"name":"twitter:image:width","content":"1200"}]
+1c:["$","meta","19",{"name":"twitter:image:height","content":"630"}]
+1d:["$","link","20",{"rel":"icon","href":"/favicon.ico","sizes":"48x48"}]
+1e:["$","link","21",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+1f:["$","link","22",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]
+20:["$","$L27","23",{}]
+21:["$","meta",null,{"name":"next-size-adjust","content":""}]
+8:300
+26:null
+24:true
+8:C
+23:0
+a:"$undefined"
+7:"$undefined"
+22:"$undefined"
+11:"$undefined"
