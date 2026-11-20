@@ -1,9 +1,8 @@
-:HL["/_next/static/chunks/0__rpbht4vi2x.css","style"]
+:HL["/_next/static/chunks/3ktr0b44ewu_h.css","style"]
 :HL["/_next/static/chunks/30cfpakkfz1fy.css","style"]
 :HL["/_next/static/media/61e56fd33ece1ad8-s.p.0op912u62qdhl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b8dfa3d21eb22018-s.p.3lxpqujs87tck.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/cf9a11b6772b9533-s.p.1elj1f4z6aq4a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/brand/stamp-ivory.svg","image"]
-:HL["/brand/symbol-ivory.svg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"M21yvKDl1Q6XXRgYU7t-G","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"H2T38uzs7v5HyMMw1bGzo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
