@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2rglgnvw-d9vc.css","style"]
+:HL["/_next/static/chunks/0h005a3xu4-ry.css","style"]
 :HL["/_next/static/chunks/30cfpakkfz1fy.css","style"]
 :HL["/_next/static/media/61e56fd33ece1ad8-s.p.0op912u62qdhl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b8dfa3d21eb22018-s.p.3lxpqujs87tck.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["/brand/stamp-ivory.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"ways-to-use","h":96,"c":"$Q2"}]]
-0:{"b":"S_V-cf3opS2VXs2u2Uv9p","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"emxA1PhVVsQvQh5ji6-34","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
